@@ -46,10 +46,6 @@ class Article extends Page{
     <div class="col-sm-4"> 
       <a href="#" ><div class="row" style="background-image:url(images/Capture2.PNG);">
     </div>
-    <div class="col-sm-4"> 
-      <a href="#" ><div class="row" style="background-image:url(images/Page2.JPG);">
-    </div>
-  </div>
 </div><br>
 <div class="container-fluid bg-3 text-center">    
   <div class="row">
